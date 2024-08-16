@@ -37,5 +37,5 @@ Ce projet est un contrôleur MIDI  capable de générer une horloge MIDI stable 
 
 1. **Cloner ce dépôt** :
    ```bash
-   git clone https://github.com/votre-utilisateur/midi-clock-multisortie.git
+      git clone https://github.com/ang-st/midi-clock-multisortie.git
    cd midi-clock-multisortie
