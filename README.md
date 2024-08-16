@@ -1,8 +1,11 @@
 # MIDI Clock Multisortie avec 4 CV Gates, 4 MIDI DIN et 4 USB
+![image](https://github.com/user-attachments/assets/7775f123-70a8-401c-ad07-2ef79dc74737)
+
+
 
 ## Description
 
-Ce projet est un contrôleur MIDI avancé capable de générer une horloge MIDI stable et synchronisée avec plusieurs sorties, y compris 4 sorties CV gate, 4 sorties MIDI DIN, et 4 connexions MIDI USB. Le projet est basé sur une carte **Teensy 4.1** qui offre une puissance de calcul suffisante pour gérer simultanément plusieurs flux MIDI tout en générant des signaux CV précis.
+Ce projet est un contrôleur MIDI  capable de générer une horloge MIDI stable et synchronisée avec plusieurs sorties, y compris 4 sorties CV gate, 4 sorties MIDI DIN, et 4 connexions MIDI USB. Le projet est basé sur une carte **Teensy 4.1** qui offre une puissance de calcul suffisante pour gérer simultanément plusieurs flux MIDI tout en générant des signaux CV précis.
 
 ## Fonctionnalités
 
